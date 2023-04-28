@@ -1,0 +1,7 @@
+CompileFlags:
+  Add:
+    -I/opt/homebrew/opt/sfml/include
+  Link:
+    -lSFML-graphics
+    -lSFML-window
+    -lSFML-system
